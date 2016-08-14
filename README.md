@@ -1,2 +1,2 @@
 # HelloCybersphere
-A project to great the coding community
+A project to greet the coding community
